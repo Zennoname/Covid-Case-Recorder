@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ΤΕΛΙΚΗ ΕΡΓΑΣΙΑ</string>
+    <string name="signin">ΣΥΝΔΕΣΗ</string>
+    <string name="pass">ΚΩΔΙΚΟΣ</string>
+    <string name="voice_command">ΦΩΝΗΤΙΚΗ ΕΝΤΟΛΗ</string>
+    <string name="login">ΣΥΝΔΕΣΗ</string>
+    <string name="signup">ΕΓΓΡΑΦΗ</string>
+    <string name="newcase">ΠΡΟΣΘΗΚΗ ΚΡΟΥΣΜΑΤΟΣ</string>
+    <string name="menu">ΠΕΡΙΕΧΟΜΕΝΑ</string>
+    <string name="map">ΧΑΡΤΗΣ</string>
+    <string name="stats">ΣΤΑΤΙΣΤΙΚΑ</string>
+    <string name="edit">ΕΠΕΞΕΡΓΑΣΙΑ</string>
+    <string name="exit">ΕΞΟΔΟΣ</string>
+    <string name="editcase">ΕΠΕΞΕΡΓΑΣΙΑ ΥΠΟΘΕΣΗΣ</string>
+    <string name="gender">ΦΥΛΟ:</string>
+    <string name="fname">ΟΝΟΜΑ:</string>
+    <string name="lname">ΕΠΩΝΥΜΟ:</string>
+    <string name="bdate">ΓΕΝΕΘΛΙΑ:</string>
+    <string name="email">EMAIL:</string>
+    <string name="phone">ΤΗΛΕΦΩΝΟ:</string>
+    <string name="address">ΔΙΕΥΘΥΝΣΗ:</string>
+    <string name="tcase">ΥΠΟΘΕΣΗ</string>
+    <string name="back">ΠΙΣΩ</string>
+    <string name="save">ΑΠΟΘΗΚΕΥΣΗ</string>
+</resources>

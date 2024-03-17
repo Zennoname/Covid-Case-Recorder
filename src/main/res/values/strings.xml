@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="title_activity_query_results" translatable="false">QueryResults</string>
+    <string name="voice_command">voice command</string>
+    <string name="login">LOG IN</string>
+    <string name="pass">PASSWORD</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="newcase">ADD NEW CASE</string>
+    <string name="menu">MENU</string>
+    <string name="map">MAP</string>
+    <string name="stats">STATISTICS</string>
+    <string name="edit">EDIT</string>
+    <string name="exit">EXIT</string>
+    <string name="editcase">EDIT CASE</string>
+    <string name="tcase">CASE</string>
+    <string name="gender">GENDER:</string>
+    <string name="fname">FIRST NAME:</string>
+    <string name="lname">LAST NAME:</string>
+    <string name="bdate">DATE OF BIRTH:</string>
+    <string name="email">EMAIL:</string>
+    <string name="phone">PHONE:</string>
+    <string name="address">ADDRESS:</string>
+    <string name="back">BACK</string>
+    <string name="save">SAVE</string>
+
+</resources>
